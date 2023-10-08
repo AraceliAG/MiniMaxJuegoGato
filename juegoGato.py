@@ -25,7 +25,7 @@ def agregarElemento(elemento, pos): #FUNCION PARA AGREGAR ELEMENTOS, PARAMETRO D
                 print("EL BOT HA GANADO")
                 exit()              #SE DETIENE 
             else:
-                print("HAS GANADO ") #SI ESA COMBINACION ESTA CONFORMADO POR O ENTONCES MUESTRA MENSAJE 
+                print("HAS GANADO :D") #SI ESA COMBINACION ESTA CONFORMADO POR O ENTONCES MUESTRA MENSAJE 
                 exit()              #SE DETIENE 
         return
     
