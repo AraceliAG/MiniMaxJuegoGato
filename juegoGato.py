@@ -22,7 +22,7 @@ def agregarElemento(elemento, pos): #FUNCION PARA AGREGAR ELEMENTOS, PARAMETRO D
             exit()                  #SE DETIENE 
         if ganador():               #SI HAY UNA COMBINACION GANADORA ENTONCES...
             if elemento == 'X':      #SI ESA COMBINACION ESTA CONFORMADO POR X ENTONCES MUESTRA MENSAJE 
-                print("EL BOT HA GANADO")
+                print("EL BOT HA GANADO c:")
                 exit()              #SE DETIENE 
             else:
                 print("HAS GANADO :D") #SI ESA COMBINACION ESTA CONFORMADO POR O ENTONCES MUESTRA MENSAJE 
